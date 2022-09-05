@@ -13,6 +13,8 @@ The screen that we would see after launching the site is as follows:
 
 The screen is what a SIEM software main screen would look like. We can see statistics on topology and logins and a detailed alert log. It is with this alert log that we will work with in this write-up. If we were to go over the logins with our cursor, the software would tell us if a login is deemed suspicious or safe.
 
+!: SIEM (Security Information and Event Management) is a software that supports threat detection, compliance and security incident management through the collection and analysis of security events, as well as a wide variety of other event and contextual data sources.
+
 #3
 ![(3)](https://user-images.githubusercontent.com/36206945/188479704-a345d493-1423-44cd-b293-d427a7608482.png)
 #4
